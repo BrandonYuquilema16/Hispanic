@@ -1,9 +1,8 @@
 import io
 from datetime import datetime
-
 import numpy as np
 import pandas as pd
-import plotly.graph_objects as go
+import plotly as go
 import requests
 import streamlit as st
 from reportlab.lib import colors
